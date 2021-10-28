@@ -1,6 +1,6 @@
 # Web3 Resources 🚀
 
-Curated List of resources for the blockchain, dApp and the web3 wold!
+Curated List of resources for the blockchain, dApp, and the web3 world!
 
 <b> If you like this repo, be sure to ⭐ it. </b>
 
