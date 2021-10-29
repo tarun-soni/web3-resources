@@ -17,8 +17,8 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 - [Youtube Channels](#youtube-channels)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
+- [Development tools and Technologies](#development-tools-and-technologies)
 - Books (Coming Soon)
-- Development tools and Technologies (Coming Soon)
 
 ## Youtube Channels:
 
@@ -33,8 +33,22 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 
 | Website                                       |
 | --------------------------------------------- |
-| [Web3 Labs](https://blog.web3labs.com/)       |
+| [Web3 Labs](https://blog.web3labs.com)        |
 | [EatTheBlocks](https://eattheblocks.com/blog) |
+
+---
+
+## Development tools and Technologies:
+
+| Website                                                           |
+| ----------------------------------------------------------------- |
+| [Remix IDE](https://remix.ethereum.org)                           |
+| [Infura](https://infura.io)                                       |
+| [Truffle Suite (following 3 tools)](https://www.trufflesuite.com) |
+| i. Truffle                                                        |
+| ii. Ganache                                                       |
+| iii. Drizzle                                                      |
+| [Metamask](https://metamask.io)                                   |
 
 ---
 
