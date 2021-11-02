@@ -28,6 +28,7 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 | [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)      |
 | [Web3 Foundation](https://www.youtube.com/c/WEB3Foundation) |
 | [Moralis Web3](https://www.youtube.com/c/MoralisWeb3)       |
+| [Code Eater](https://www.youtube.com/c/CodeEater21)         |
 
 ## Blogs:
 
