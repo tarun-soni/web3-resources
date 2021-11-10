@@ -1,9 +1,6 @@
 # Web3 Resources 🚀
 
-Curated List of resources for the blockchain, dApp, and the web3 world!
-
-<b> If you like this repo, be sure to ⭐ it. </b>
-
+![[object Object]](https://socialify.git.ci/tarun-soni/web3-resources/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
 Please read [`contributing guidelines`](./guidelines.md) before submitting any new resources.
 
 ---
@@ -18,6 +15,7 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
 - [Development tools and Technologies](#development-tools-and-technologies)
+- Twitter accounts to follow(Coming Soon)
 - Books (Coming Soon)
 
 ## Youtube Channels:
@@ -32,10 +30,12 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 
 ## Blogs:
 
-| Website                                       |
-| --------------------------------------------- |
-| [Web3 Labs](https://blog.web3labs.com)        |
-| [EatTheBlocks](https://eattheblocks.com/blog) |
+| Website                                             |
+| --------------------------------------------------- |
+| [Web3 Labs](https://blog.web3labs.com)              |
+| [EatTheBlocks](https://eattheblocks.com/blog)       |
+| [LearningWeb3](https://learningweb3.hashnode.dev)   |
+| [Bode's blog](https://olabodeolusegun.hashnode.dev) |
 
 ---
 
@@ -50,6 +50,7 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 | ii. Ganache                                                       |
 | iii. Drizzle                                                      |
 | [Metamask](https://metamask.io)                                   |
+| [Replit](https://replit.com)                                      |
 
 ---
 
