@@ -81,6 +81,8 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 | [Developer Dao](https://twitter.com/developer_dao)             |
 | [Pratham](https://twitter.com/PrasoonPratham)                  |
 | [Eda](https://twitter.com/edatweets_)                          |
+| [madhavanmalolan](https://twitter.com/madhavanmalolan)         |
+| [Krati Jain](https://twitter.com/kratijain)                    |
 
 ---
 
