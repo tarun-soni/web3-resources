@@ -64,6 +64,9 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 | ------------------------------------------------------------------------ |
 | [Blockchain Insider Podcast by 11:FS](https://bi.11fs.com)               |
 | [Blockchain Innovation](https://blockchain.global/blockchain-innovation) |
+| [The Defiant](https://thedefiant.io/)                                    |
+| [Real Vision Finance](https://www.youtube.com/c/RealVisionFinance)       |
+| [Bankless](https://www.youtube.com/c/Bankless)                           |
 
 ---
 
