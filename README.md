@@ -15,8 +15,8 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 - [Blogs](#blogs)
 - [Development tools and Technologies](#development-tools-and-technologies)
 - [Podcasts](#podcasts)
-- [Twitter accounts to follow](#twitter-accounts)
-- Books (Coming Soon)
+- [Twitter accounts to follow](#twitter-accounts-to-follow)
+- [Books](#books)
 
 ## Youtube Channels:
 
@@ -88,6 +88,17 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 | [Krati Jain](https://twitter.com/kratijain)                    |
 
 ---
+
+## Books
+
+| Books                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mastering Ethereum](https://read.amazon.in/kp/embed?asin=B07KGLNL76&preview=newtab&linkCode=kperef_=cm_sw_r_kb_dp_VGY3S4C92RK59N319D6G)                                      |
+| [Ethereum for Web developers](https://read.amazon.in/kp/embed?asin=B07YG38V6C&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ZA1Z98698JE6TA133EDP)                            |
+| [The Bitcoin Standard](https://read.amazon.in/kp/embed?asin=B07BPM3GZQ&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_TDW2W4BYAA6ENGBYJZYA)                                   |
+| [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.amazon.com/dp/1523930470/ref=cm_sw_r_tw_dp_1GSCQHBVA3GAR4HC7JM8) |
+| [Out of the Ether](https://read.amazon.in/kp/embed?asin=B08HSRLSCB&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_E0EBGH8BYX1FVNDEC8M7)                                       |
+| [Build a Blockchain from scratch in go](https://web3coach.gumroad.com/l/build-a-blockchain-from-scratch-in-go)                                                                |
 
 Thanks! ❤️
 
