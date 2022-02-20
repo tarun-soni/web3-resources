@@ -40,6 +40,7 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 | [QuestBook's blog](https://blog.questbook.app)             |
 | [Nader Dabitw's blog](https://dev.to/dabit3)               |
 | [Eda's Blog](https://eda.hashnode.dev)                     |
+| [Web3 Blog](https://remote3.co/blog)                       |
 
 ---
 
