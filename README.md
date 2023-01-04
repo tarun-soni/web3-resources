@@ -1,7 +1,7 @@
 # Web3 Resources 🚀
 
 ![[object Object]](https://socialify.git.ci/tarun-soni/web3-resources/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
-Please read [`contributing guidelines`](./guidelines.md) before submitting any new resources.
+Please read the [`contributing guidelines`](./guidelines.md) before submitting any new resources.
 
 ---
 
@@ -17,6 +17,7 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 - [Podcasts](#podcasts)
 - [Twitter accounts to follow](#twitter-accounts-to-follow)
 - [Books](#books)
+- [Roadmaps and Learning Paths](#roadmaps-and-learning-paths)
 
 ## Youtube Channels:
 
@@ -56,7 +57,7 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 | iii. Drizzle                                                      |
 | [Metamask](https://metamask.io)                                   |
 | [Replit](https://replit.com)                                      |
-
+| [Solidity Playground on codedamn](https://codedamn.com/playgrounds)                                 |
 ---
 
 ## Podcasts:
@@ -100,6 +101,13 @@ Initially created by [Tarun Soni](https://github.com/tarun-soni)
 | [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.amazon.com/dp/1523930470/ref=cm_sw_r_tw_dp_1GSCQHBVA3GAR4HC7JM8) |
 | [Out of the Ether](https://read.amazon.in/kp/embed?asin=B08HSRLSCB&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_E0EBGH8BYX1FVNDEC8M7)                                       |
 | [Build a Blockchain from scratch in go](https://web3coach.gumroad.com/l/build-a-blockchain-from-scratch-in-go)                                                                |
+---
+## Roadmaps and Learning Paths
+
+| Website                                                                 |
+| ----------------------------------------------------------------------- |
+| [Web3 learning path by codedamn.com](https://codedamn.com/learning-paths/web3) |
+| [Learning path by Vitto.cc](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)   |
 
 Thanks! ❤️
 
